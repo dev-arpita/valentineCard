@@ -21,4 +21,6 @@ p {
 }
 .giphy-embed{
     pointer-events: none;
+    border-radius: 10px;
+    margin-bottom: 10px;
 }
